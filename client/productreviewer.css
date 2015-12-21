@@ -1,0 +1,28 @@
+footer{
+	background-color: #F8F8F8;
+	color: 	#494D51;
+	text-align: center;
+	margin-top: 40px;
+	padding-top: 5px;
+}
+
+.full{
+	width: 100%;
+}
+
+.product-row {
+	border-bottom: #ccc 1px solid;
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+}
+.row-reviews {
+	border-bottom: #ccc 1px solid;
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+
+}
+
+.stars {
+	width: 120px;
+	margin-bottom: 5px;
+}
